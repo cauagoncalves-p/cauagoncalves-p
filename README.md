@@ -6,7 +6,7 @@ Me chamo Cauã Gonçalves Pereira, tenho 18 anos e sou de São Paulo, capital. A
 
 
 <p align="left">
-    <a href="https://www.linkedin.com/in/caua-goncalves-pereira/">
+ <a href="https://www.linkedin.com/in/cau%C3%A3-gon%C3%A7alves-pereira/" target="_blank">
         <img 
             alt="LinkedIn" 
             title="Me adicione no LinkedIn" 
