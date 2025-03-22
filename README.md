@@ -94,7 +94,7 @@ Me chamo Cauã Gonçalves Pereira, tenho 18 anos e sou de São Paulo, capital. A
 <img 
     align="left" 
     alt="MongoDB" 
-    title="MOngoDB"
+    title="MongoDB"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mariadb/mariadb-original.svg"/>
