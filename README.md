@@ -93,8 +93,8 @@ Me chamo Cauã Gonçalves Pereira, tenho 18 anos e sou de São Paulo, capital. A
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"/>
 <img 
     align="left" 
-    alt="Python" 
-    title="Python"
+    alt="MongoDB" 
+    title="MOngoDB"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mariadb/mariadb-original.svg"/>
