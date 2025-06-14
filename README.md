@@ -1,6 +1,6 @@
 <p align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=650&color=9A4DFF&width=700&lines=Welcome!;Bem-vindo!;Sou+Cauã+Gonçalves" 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=650&color=9A4DFF&width=700&lines=Welcome!;Bem-vindo!" 
     alt="Typing SVG"
     height="90"
   />
