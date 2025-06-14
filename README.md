@@ -1,16 +1,16 @@
 <p align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=800&color=00C4CC&width=700&lines=Welcome!;Bem-vindo!;Sou+Cauã+Gonçalves" 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=800&color=9A4DFF&width=700&lines=Welcome!;Bem-vindo!;Sou+Cauã+Gonçalves" 
     alt="Typing SVG"
     height="90"
-/>
+  />
 </p>
 
 # 🤖 Cauã Gonçalves
 
 **Desenvolvedor FullStack**
 
-Me chamo Cauã Gonçalves Pereira, tenho 18 anos e sou de São Paulo, capital. Atualmente, estudo Desenvolvimento de Sistemas e Técnico em Informática no "[SENAC São Paulo](https://www.sp.senac.br/)". Sou apaixonado por tecnologia e estou sempre em busca de novos aprendizados. Gosto de desafios que me permitam crescer, seja desenvolvendo soluções inovadoras ou aprimorando minhas habilidades na área de TI.
+Me chamo Cauã Gonçalves Pereira, tenho 18 anos e sou de São Paulo, capital. Atualmente, estudo Desenvolvimento de Sistemas no SENAC São Paulo e concluí o curso Técnico em Informática. Sou apaixonado por tecnologia e estou sempre em busca de novos aprendizados. Gosto de desafios que me permitam crescer, seja desenvolvendo soluções inovadoras ou aprimorando minhas habilidades na área de TI.
 
 <p align="left">
   <a href="https://www.linkedin.com/in/cau%C3%A3-gon%C3%A7alves-pereira/" target="_blank">
@@ -23,11 +23,11 @@ Me chamo Cauã Gonçalves Pereira, tenho 18 anos e sou de São Paulo, capital. A
   </a>
   &nbsp;&nbsp;&nbsp; <!-- espaço entre LinkedIn e GitHub -->
 
-  <a href="https://github.com/cauagoncalves-p" target="_blank">
+ <a href="https://github.com/cauagoncalves-p" target="_blank">
     <img 
       alt="GitHub" 
       title="GitHub" 
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" 
+      src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/PNG/White/Github_white.png" 
       width="40"
     />
   </a>
