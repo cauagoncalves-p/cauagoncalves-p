@@ -1,8 +1,6 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00C4CC&center=true&vCenter=true&width=435&lines=Welcome!;Bem-vindo!;Sou+Cauã+Gonçalves+Pereira" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=60&pause=1000&color=00C4CC&center=true&vCenter=true&width=435&lines=Welcome!;Bem-vindo!;Sou+Cauã+Gonçalves+Pereira" alt="Typing SVG" />
 </p>
-
-
 
 # 🤖 Cauã Gonçalves
 
