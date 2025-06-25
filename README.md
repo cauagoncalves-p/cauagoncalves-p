@@ -139,10 +139,8 @@ Me chamo Cauã Gonçalves Pereira, tenho 18 anos e sou de São Paulo, capital. A
 
 <br clear="all"/>
 
-<br/>
+### 🔥 Contribuições e Atividade
+
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=cauagoncalves-p&theme=tokyonight&border=true)
 
-<br/>
-
-[![](https://visitcount.itsvg.in/api?id=cauagoncalves-p&icon=5&color=10)](https://visitcount.itsvg.in)
