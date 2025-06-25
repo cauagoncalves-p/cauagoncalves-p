@@ -33,7 +33,7 @@ Me chamo Cauã Gonçalves Pereira, tenho 18 anos e sou de São Paulo, capital. A
   </a>
   &nbsp;&nbsp;&nbsp;
 
-  <a href="mailto:caua.devtech@gmail.com" target="_blank">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=cauagoncalves2190@gmail.com" target="_blank" rel="noopener noreferrer">
     <img 
       alt="E-mail" 
       title="Enviar E-mail" 
