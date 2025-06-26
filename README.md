@@ -1,3 +1,4 @@
+<link href="https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro&display=swap" rel="stylesheet">
 <p align="center">
   <img 
     src="https://readme-typing-svg.herokuapp.com?font=Alfa+Slab+One&size=40&pause=650&color=9A4DFF&width=700&lines=Welcome!;Bem-vindo!" 
@@ -11,7 +12,8 @@
 
 **Desenvolvedor FullStack**
 
-Me chamo Cauã Gonçalves Pereira, tenho 18 anos e sou de São Paulo, capital. Atualmente, estudo Desenvolvimento de Sistemas no SENAC São Paulo e concluí o curso Técnico em Informática. Sou apaixonado por tecnologia e estou sempre em busca de novos aprendizados. Gosto de desafios que me permitam crescer, seja desenvolvendo soluções inovadoras ou aprimorando minhas habilidades na área de TI.
+#### Me chamo Cauã Gonçalves Pereira, tenho 18 anos e sou de São Paulo, capital. Atualmente, estudo Desenvolvimento de Sistemas Técnico no SENAC São Paulo e concluí o curso Técnico em Informática. Sou apaixonado por tecnologia e estou sempre em busca de novos aprendizados. Gosto de desafios que me permitam crescer, seja desenvolvendo soluções inovadoras ou aprimorando minhas habilidades na área de TI.
+
 <p align="left">
   <a href="https://www.linkedin.com/in/cau%C3%A3-gon%C3%A7alves-pereira/" target="_blank">
     <img 
