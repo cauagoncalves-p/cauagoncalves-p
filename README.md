@@ -155,5 +155,5 @@
 ### 🔥 Contribuições e Atividade
 
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=cauagoncalves-p&theme=tokyonight&border=true)
 
+![](https://github-readme-streak-stats.herokuapp.com/?user=cauagoncalves-p&theme=tokyonight&border=true)
