@@ -1,5 +1,5 @@
 <link href="https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro&display=swap" rel="stylesheet">
-<p align="center">
+<p align="left">
   <img 
     src="https://readme-typing-svg.herokuapp.com?font=Alfa+Slab+One&size=40&pause=650&color=9A4DFF&width=700&lines=Welcome!;Bem-vindo!" 
     alt="Typing SVG"
