@@ -12,6 +12,22 @@
 </div>
 
 ---
+<div align="center"> 
+  <a href="https://www.linkedin.com/in/SEU-PERFIL-AQUI/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="mailto:SEU-EMAIL@gmail.com" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="40" alt="google logo" />
+  </a>
+  <a href="https://github.com/SEU-USUARIO-AQUI" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo" />
+  </a>
+</div>
+  
+  <a href="mailto:SEU-EMAIL@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+</div>
 
 ### 💻 Tech Stack & Tools
 <p align="center">
