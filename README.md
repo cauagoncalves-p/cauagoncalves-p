@@ -12,7 +12,7 @@
 
 **Desenvolvedor FullStack**
 
-#### Me chamo Cauã Gonçalves Pereira, tenho 18 anos e sou de São Paulo, capital. Atualmente, estudo Desenvolvimento de Sistemas Técnico no SENAC São Paulo e concluí o curso Técnico em Informática. Sou apaixonado por tecnologia e estou sempre em busca de novos aprendizados. Gosto de desafios que me permitam crescer, seja desenvolvendo soluções inovadoras ou aprimorando minhas habilidades na área de TI.
+#### Me chamo Cauã Gonçalves Pereira, tenho 19 anos e sou de São Paulo, capital. Atualmente, estudo Desenvolvimento de Sistemas Técnico no SENAC São Paulo e concluí o curso Técnico em Informática. Sou apaixonado por tecnologia e estou sempre em busca de novos aprendizados. Gosto de desafios que me permitam crescer, seja desenvolvendo soluções inovadoras ou aprimorando minhas habilidades na área de TI.
 
 <p align="left">
   <a href="https://www.linkedin.com/in/cau%C3%A3-gon%C3%A7alves-pereira/" target="_blank">
