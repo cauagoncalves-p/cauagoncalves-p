@@ -16,7 +16,7 @@
 ### 💻 Tech Stack & Tools
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,python,cs,java,spring,mysql,postgres,docker,git,linux,idea,postman&perline=7" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,python,cs,java,spring,mysql,postgres,git,idea,postman&perline=7" />
   </a>
 </p>
 
