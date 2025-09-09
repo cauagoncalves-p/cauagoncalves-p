@@ -13,16 +13,12 @@
 
 ---
 <div align="center"> 
-  <a href="www.linkedin.com/in/cauã-gonçalves-pereira" target="_blank">
+  <a href="https://www.linkedin.com/in/cauã-gonçalves-pereira" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin logo"  />
   </a>
-  <a href="[mailto:SEU-EMAIL@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=cauagoncalves.developer@gmail.com)" target="_blank">
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:cauagoncalves.developer@gmail.com" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="40" alt="google logo" />
-  </a>
-</div>
-  
-  <a href="mailto:SEU-EMAIL@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </div>
 
